@@ -1,4 +1,4 @@
-# test-app
+# npm packages search app
 
 ## Project setup
 ```
